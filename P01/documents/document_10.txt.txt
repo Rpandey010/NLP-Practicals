@@ -1,0 +1,1 @@
+Data visualization is the graphic representation of data, making it easier to identify patterns, trends, and outliers.

@@ -1,0 +1,1 @@
+Machine learning is a branch of artificial intelligence that focuses on the use of data and algorithms to imitate the way that humans learn.

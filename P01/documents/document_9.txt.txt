@@ -1,0 +1,1 @@
+Blockchain is a distributed database that is shared among the nodes of a computer network.
