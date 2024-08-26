@@ -4,6 +4,5 @@ Quantum computing is another area gaining traction, with researchers exploring i
 
 AI is becoming more integrated into daily technology, enhancing both user experience and functionality. For example, advanced AI personal assistants are becoming more capable, while AI-based analytics tools offer businesses greater data insights.
 
-The rollout of 5G technology is another major trend, bringing enhanced network speed and connectivity. This advancement supports the expansion of the Internet of Things (IoT) and facilitates the development of smart city infrastructures.
 
 As technology progresses, so does the need for improved cybersecurity. The rise in sophisticated cyber threats is driving the development of stronger security protocols, including advancements in quantum-resistant encryption to counteract emerging risks.
