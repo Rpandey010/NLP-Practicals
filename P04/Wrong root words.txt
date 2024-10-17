@@ -1,0 +1,36 @@
+Here are the words where the root/stemmed word seems incorrect based on your output:
+
+Original: once, Root: onc — Expected root: one
+Original: village, Root: villag — Expected root: village
+Original: nestled, Root: nestl — Expected root: nestle
+Original: villagers, Root: villag — Expected root: villager
+Original: hardworking, Root: hardwork — Expected root: hardworking
+Original: people, Root: peopl — Expected root: people
+Original: raising, Root: rais — Expected root: raise
+Original: cattle, Root: cattl — Expected root: cattle
+Original: simple, Root: simpl — Expected root: simple
+Original: happiness, Root: happi — Expected root: happiness
+Original: every, Root: everi — Expected root: every
+Original: bountiful, Root: bounti — Expected root: bountiful
+Original: harvest, Root: harv — Expected root: harvest
+Original: blessed, Root: bless — Expected root: bless
+Original: lives, Root: live — Expected root: live (context is plural of "life")
+Original: nestled, Root: nestl — Expected root: nestle
+Original: green, Root: green — Expected root: green
+Original: their, Root: their — Expected root: their
+Original: fill, Root: filled — Expected root: fill
+Original: happiness, Root: happi — Expected root: happiness
+Original: adventurous, Root: adventur — Expected root: adventurous
+Original: father, Root: fath — Expected root: father
+Original: animals, Root: anim — Expected root: animal
+Original: particularly, Root: particularli — Expected root: particular
+Original: fond, Root: fond — Expected root: fond
+Original: oak, Root: oak — Expected root: oak
+Original: its, Root: it — Expected root: its
+Original: edge, Root: edg — Expected root: edge
+Original: sprawling, Root: sprawl — Expected root: sprawl
+Original: stories, Root: stori — Expected root: stories
+Original: enchanted, Root: enchant — Expected root: enchant
+Original: believed, Root: believ — Expected root: believe
+Original: creatures, Root: creature — Expected root: creature
+Original: magical, Root: magic — Expected root: magical

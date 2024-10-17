@@ -1,0 +1,3 @@
+I loev to lern NLP becuase it helps in developng artificil inteligence and other related fields. NLP is a fascianting subject.
+It involvs working with langauge and building models. Machine tranlation and text summariztion are some of its applictions.
+By lerning NLP, one can understand how compters process human langague and solve reallife problems.
